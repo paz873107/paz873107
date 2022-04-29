@@ -1,9 +1,9 @@
 ### Hi! 👋 My name is Paz and I'm a software developer in the making
 
--🌱 Looking out for new challenges to keep learning and growing in the IT world. Passionate about detail and visual harmony. Obsessed with CSS.
--⚡ When not coding, you can find me singing or spending time with my kittens 🐱🐱.
--💬 If you are looking for advice on how to begin your path as a developer, you can reach out for me on Linkedin. I will be posting about my personal experience and reviewing some coding exercises to share with you all.
-
+-🌱 Looking out for new challenges to keep learning and growing in the IT world. Passionate about detail and visual harmony. Obsessed with CSS.<br>
+-⚡ When not coding, you can find me singing or spending time with my kittens 🐱🐱.<br>
+-💬 If you are looking for advice on how to begin your path as a developer, you can reach out for me on Linkedin. I will be posting about my personal experience and reviewing some coding exercises to share with you all.<br>
+<br>
 -🔭 Technologies that I work with:
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
