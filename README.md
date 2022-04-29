@@ -16,6 +16,6 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
-
+<br>
 - Linkedin: https://www.linkedin.com/in/mar%C3%ADa-de-la-paz-casaux-1395a4159/
 - E-mail: paz873107@gmail.com
